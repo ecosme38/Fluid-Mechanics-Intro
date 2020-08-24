@@ -1,2 +1,4 @@
 # Fluid-Mechanics-Intro
-Notebooks for an introduction to fluid mechanics.
+
+This repo contains 
+notebooks that come in support of my introductory course on fluid mechanics, for bachelor students.
